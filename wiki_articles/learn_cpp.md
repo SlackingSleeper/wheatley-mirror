@@ -1,4 +1,4 @@
-[[alias learncpp]]
+[[[alias learncpp]]]
 # How to Learn C++ Programming
 
 Everyone learns differently, but the best way is to learn by doing:
